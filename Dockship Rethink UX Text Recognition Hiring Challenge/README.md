@@ -5,4 +5,3 @@ The aim of this challenge is to recognize handwritten text in the given images.
 
 The "TRAIN" directory contains 165,480 images and the corresponding labels are provided in "TRAIN.csv". The "TEST" directory contains 20,685 images for prediction.
 
-Please refer to the Submission Guidelines for the final format of the submission.
