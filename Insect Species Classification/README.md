@@ -13,9 +13,3 @@ where
 #### p=tptp+fp,  
 #### r=tptp+fn
 The F1 metric weights recall and precision equally, and a good retrieval algorithm will maximize both precision and recall simultaneously. Thus, moderately good performance on both will be favored over extremely good performance on one and poor performance on the other.
-
-## LeaderBoard:
-### Private LB: 1st Rank
-### Public LB: 1st Rank
-[https://www.kaggle.com/c/d-tribe-hackathon-2020/leaderboard]
-
